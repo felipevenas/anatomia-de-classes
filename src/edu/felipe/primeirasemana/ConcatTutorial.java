@@ -1,4 +1,6 @@
-public class MinhaClasse {
+package edu.felipe.primeirasemana;
+
+public class ConcatTutorial {
     public static void main(String[] args) throws Exception {
         
         String primeiroNome = "Felipe";
